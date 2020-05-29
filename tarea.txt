@@ -1,0 +1,27 @@
+Start
+HACER LA LIMPIEZA DEL HOGAR
+BARRER
+buscar escoba
+encontraste la escoba?
+YES			NO   preguntale a mamá
+agarrar escoba
+barrer toda la casa
+
+TRAPEAR
+buscar trapeador
+encontraste el trapeador
+YES			NO   preguntale a mamá
+agarrar trapeador
+esta limpio?
+YES			NO   lavalo entonces
+poner trapeador en el palo de trapeador
+trapear toda la casa
+
+LAVAR TRASTES
+estan limpios?
+YES			NO  entonces lavalos
+buscar que mas hacer
+hay halgo mas que hacer?
+YES			NO   relajate
+hazlo
+end
